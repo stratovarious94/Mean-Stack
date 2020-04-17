@@ -17,7 +17,7 @@
     "lodash": "^4.17.4",
     "mocha": "^3.4.2",
     "mongodb": "^2.2.30",
-    "mongoose": "^4.11.1",
+    "mongoose": "^5.9.9",
     "supertest": "^3.0.0",
     "validator": "^8.0.0"
   }
